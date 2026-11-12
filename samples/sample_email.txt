@@ -1,0 +1,11 @@
+From: security-alert@example.com
+To: user@example.com
+Subject: Urgent Account Verification Required
+
+Dear User,
+
+Your account requires verification.
+Please review your account security.
+
+Regards,
+Security Team
